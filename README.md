@@ -1,14 +1,14 @@
-# c
+# CV
+My CV is included of these sections:
 
-
-## [Hello](https://github.com/baziha/hello-world)
+## 1. [Hello](https://github.com/baziha/hello-world)
 - aa1
 - aa2
 - aa3
 
 
 
-## [b](https://github.com/baziha/b)
+## 2. [b](https://github.com/baziha/b)
 1. b1
 2. b2
 3. b3
@@ -16,7 +16,7 @@
 
 
 
-
+![](https://www.brandbucket.com/sites/default/files/logo_uploads/315026/large_singlesample.png?raw=true)
 
 
 
